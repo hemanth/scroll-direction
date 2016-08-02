@@ -1,6 +1,6 @@
 {
   "name": "scroll-direction",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the scroll direction!",
   "license": "MIT",
   "repository": "hemanth/scroll-direction",
@@ -29,6 +29,5 @@
     "is-dom": "^1.0.5",
     "is-function": "^1.0.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
