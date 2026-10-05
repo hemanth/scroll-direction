@@ -1,6 +1,6 @@
 {
   "name": "scroll-direction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the scroll direction!",
   "license": "MIT",
   "repository": "hemanth/scroll-direction",
@@ -13,7 +13,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": ""
+    "test": "node --check index.js"
   },
   "files": [
     "index.js"
@@ -26,8 +26,8 @@
     "mouse"
   ],
   "dependencies": {
-    "is-dom": "^1.0.5",
-    "is-function": "^1.0.1"
+    "is-dom": "^1.1.0",
+    "is-function": "^1.0.2"
   },
   "devDependencies": {}
 }
